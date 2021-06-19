@@ -56,7 +56,9 @@ img{
 	color: #fff;
 	padding: 7px 15px;
 	display: inline-block;
-  transition: .4s;
+	transition: .4s;
+	font-weight: 700;
+	font-size: 17px;
 }
 
 .header-menu li a:hover{
@@ -699,10 +701,10 @@ img{
 }
 
 .contact_section .form_part .form {
-  margin: 10px 0;
-  border: 2px solid #eeeeee;
-  padding: 10px;
-  border-radius: 5px;
+	margin: 10px 0;
+	border: 2px solid #cfbcbc;
+	padding: 10px;
+	border-radius: 5px;
 }
 
 .contact_section .form_part .form:focus {
